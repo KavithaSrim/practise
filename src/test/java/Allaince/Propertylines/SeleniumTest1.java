@@ -9,5 +9,11 @@ public class SeleniumTest1 {
 	{
 		System.out.println("this is my first maven project");
 	}
+	
+	@Test	
+	public void myFirstTest2()
+	{
+		System.out.println("this is my first maven project");
+	}
 
 }
